@@ -15,6 +15,9 @@ Tools: Altium, STM32, LTspice
 ### 🔌 [ESP32 Relay Control Board](projects/esp32-relay.md)
 A compact Wi-Fi relay controller built around the ESP32.  
 Tools: KiCad, HLK-PM05, ESP32
+### 🔌 [ESP32 Smart Switch](projects/esp32-smart-switch/esp32-smart-switch.md)  
+Hands-free AC relay controller with PIR and sound detection using ESP32.
+
 
 ---
 
