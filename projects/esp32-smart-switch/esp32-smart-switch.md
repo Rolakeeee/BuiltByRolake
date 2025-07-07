@@ -29,12 +29,16 @@ Ideal for automating lights, fans, or sockets in a room using movement or sound.
 | **Design Software**  | KiCad                                      |
 
 ---
+## 🖼️ PCB Images
 
-## 📐3D View & PCB Layout
+### 📐 PCB Layout  
+<img src="esp32-smart-switch-layout.png" width="500" alt="ESP32 Smart Switch Layout">
 
-<img src="esp32-smart-switch-3D-bottom-view.png" width="500" alt="ESP32 Smart Switch Schematic">
+### 🎥 3D Bottom View  
+<img src="esp32-smart-switch-3D-bottom-view.png" width="500" alt="ESP32 Smart Switch 3D Bottom View">
 
-<img src="esp32-smart-switch-layout.png" width="500" alt="ESP32 Smart Switch PCB Layout">
+### 🧊 3D Top View  
+<img src="esp32-smart-switch-3D-top-view.png" width="500" alt="ESP32 Smart Switch 3D Top View">
 
 ---
 
