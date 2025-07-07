@@ -30,9 +30,9 @@ Ideal for automating lights, fans, or sockets in a room using movement or sound.
 
 ---
 
-## 📐 Schematic & PCB
+## 📐3D View & PCB Layout
 
-<img src="esp32-smart-switch-schematic.png" width="500" alt="ESP32 Smart Switch Schematic">
+<img src="esp32-smart-switch-3D bottom view.png" width="500" alt="ESP32 Smart Switch Schematic">
 
 <img src="esp32-smart-switch-layout.png" width="500" alt="ESP32 Smart Switch PCB Layout">
 
