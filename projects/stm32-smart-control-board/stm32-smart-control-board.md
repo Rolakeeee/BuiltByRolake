@@ -54,13 +54,13 @@ This board acts as a **smart embedded brain** that performs the following real-w
 ## 📐 PCB Snapshots
 
 ### 📘 Layout  
-<img src="controller-layout.png" width="500" alt="Layout">
+<img src="PCB_Layout.png" width="500" alt="Layout">
 
 ### 🧊 3D Top View  
-<img src="3D-top-view.png" width="500" alt="3D Top">
+<img src="3D-Top-View" width="500" alt="3D Top">
 
 ### 🔄 3D Bottom View  
-<img src="3D-bottom-view.png" width="500" alt="3D Bottom">
+<img src="3D-Bottom-View.png" width="500" alt="3D Bottom">
 
 ---
 
