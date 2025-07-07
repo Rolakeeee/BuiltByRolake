@@ -3,7 +3,7 @@
 > *“From schematic to solution. I build electronics that matter.”*
 
 Hi! I’m **Morolake Salami**, an **Embedded Systems & Hardware Engineer** and First Class graduate of Electrical & Electronics Engineering from **Covenant University**. I’m passionate about building electronics that solve real-world problems — from power electronics to embedded boards.
-Welcome to my Github portfolio
+Welcome to my Github PCB portfolio
 
 ---
 
