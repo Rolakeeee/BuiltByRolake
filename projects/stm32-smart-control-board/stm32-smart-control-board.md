@@ -1,6 +1,6 @@
 # 🧠 STM32-Based Smart Embedded Hub
 
-This is a compact, 4-layer embedded board designed to serve as a **core system** in connected products that need precision sensing, motor control, and multiple communication interfaces — all on one board.
+This is a compact, 4-layer embedded board designed to serve as a **core system** in connected products that need precision sensing, motor control, and multiple communication interfaces  all on one board.
 
 ---
 
