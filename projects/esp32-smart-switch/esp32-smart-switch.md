@@ -38,7 +38,7 @@ Ideal for automating lights, fans, or sockets in a room using movement or sound.
 <img src="esp32-smart-switch-3D-bottom-view.png" width="500" alt="ESP32 Smart Switch 3D Bottom View">
 
 ### 🧊 3D Top View  
-<img src="esp32-smart-switch-3D-top-view.png" width="500" alt="ESP32 Smart Switch 3D Top View">
+<img src="esp32-smart-switch-3D top view.png" width="500" alt="ESP32 Smart Switch 3D Top View">
 ---
 
 ## ⚙️ How It Works
