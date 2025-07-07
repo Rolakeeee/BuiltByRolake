@@ -72,9 +72,8 @@ The entire board is powered safely by the HLK-PM05, isolating mains from logic.
 
 ## 📁 Files
 
-- ✅ KiCad design files *(coming soon)*
-- ✅ Arduino/ESP-IDF firmware *(coming soon)*
 - 📸 Project images in this folder
+- Designed with KiCAD
 
 ---
 
