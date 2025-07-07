@@ -57,7 +57,7 @@ This board acts as a **smart embedded brain** that performs the following real-w
 <img src="PCB_Layout.png" width="500" alt="Layout">
 
 ### 🧊 3D Top View  
-<img src="3D-Top-View" width="500" alt="3D Top">
+<img src="3D-Top-View.png" width="500" alt="3D Top">
 
 ### 🔄 3D Bottom View  
 <img src="3D-Bottom-View.png" width="500" alt="3D Bottom">
